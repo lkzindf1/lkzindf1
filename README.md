@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://raw.githubusercontent.com/lkzindf1/lkzindf1/main/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Apaixonado por dados e Business Intelligence. Busco transformar dados em insights estratégicos através de <b>Python</b>, <b>SQL Server</b> e <b>Power BI</b>, aplicando soluções que otimizam a tomada de decisão e geram impacto real.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Apaixonado por dados e Business Intelligence. Busco transformar dados em insights estratégicos através de <b>Python</b>, <b>SQL Server</b> e <b>Power BI</b>, aplicando soluções que otimizam a tomada de decisão e gerando impacto real.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lkzindf1&theme=radical&mode=weekly" />
